@@ -30,6 +30,7 @@ In this example we are setting the priority level of the ticket. The priority ha
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/uJtuLaK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="965" height="772" alt="Screenshot 2026-01-30 at 5 04 26 PM" src="https://github.com/user-attachments/assets/2724de0e-64e0-499d-9d3a-9d96f4167090" />
+
 </p>
 <p>
