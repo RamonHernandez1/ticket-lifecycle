@@ -10,9 +10,10 @@ This tutorial demonstrates the creation of tickets as an end user .<br />
 </p>
 </p>
 <p>
-Ken is creating a ticket, the help topic is "Business Critical Outage" because customers are reporting that they cannot access mobile banking. 
+Karen is creating a ticket, the help topic is "Business Critical Outage" because customers are reporting that they cannot access mobile banking. 
 </p>
-<img src="https://i.imgur.com/lRduIb2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="841" height="764" alt="Screenshot 2026-01-30 at 4 18 03 PM" src="https://github.com/user-attachments/assets/8c8d9e47-b6cf-4c88-bacb-20ede2469d1e" />
+
 </p>
 <br />
 <p>
