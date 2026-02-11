@@ -14,24 +14,71 @@ osTicket
 </p><h1>Project Guide</h1>
 First, I will navigate to the end user site of osTicket to be able to create a new ticket:</p><img width="1440" height="900" alt="Screenshot 2026-02-10 at 10 13 22 PM" src="https://github.com/user-attachments/assets/4b9bc31d-b95e-4c9f-ab06-e86f43ee75ba" />
 
-</p>I will open three new tickets and fill out the users information along with the technical issues:
+</p>I will open two new tickets and fill out the users information along with the technical issues:
 <br />
 <p>
-</p>
-<p>
-Agents will be able to see live tickets in the agent panel. Queue managers will assign priority tickets to the appropriate agents as well as assigning proper SLAs. 
-</p>
-<br />
-<p>
-<img width="960" height="376" alt="Screenshot 2026-01-30 at 4 47 52 PM" src="https://github.com/user-attachments/assets/b5de3559-7804-4050-b269-c4314100dc82" />
+</p><img width="1440" height="900" alt="Screenshot 2026-02-11 at 10 02 03 AM" src="https://github.com/user-attachments/assets/a60a59d8-a465-4922-aedf-8e0c1e9070e6" />
 
-</p>
 <p>
-In this example we are setting the priority level of the ticket. The priority has been set to Emergency since we are dealing with an issue that can effect an entire portion of the business. We have changed the SLA plan and assigned the ticket to a top level technician. In some ticketing system customers can set their own SLA plans. 
-</p>
-<br />
-<p>
-<img width="965" height="772" alt="Screenshot 2026-01-30 at 5 04 26 PM" src="https://github.com/user-attachments/assets/2724de0e-64e0-499d-9d3a-9d96f4167090" />
+</p><img width="2824" height="1632" alt="image" src="https://github.com/user-attachments/assets/a4140113-bd53-43a8-a422-1381bba4e569" />
 
-</p>
+<br />Next, I will log in as an agent (worker) we created:
 <p>
+<img width="1440" height="900" alt="Screenshot 2026-02-11 at 10 30 02 AM" src="https://github.com/user-attachments/assets/fe2615b7-640e-467f-8825-89e34c15b3a8" />
+
+</p>I can now see all the open tickets I created in the "Tickets" tab:
+<p>
+</p>
+<img width="1440" height="900" alt="Screenshot 2026-02-11 at 10 45 10 AM" src="https://github.com/user-attachments/assets/85f85084-902e-43ac-8ead-a2422d6a099a" />
+
+</p>When clicking on a ticket I can see all the information about the ticket like its priority, SLA, creation date, and more:
+<p>
+</p>
+<img width="1440" height="900" alt="Screenshot 2026-02-11 at 10 52 47 AM" src="https://github.com/user-attachments/assets/92610137-0ddd-4f19-bb89-ada728979be0" />
+
+</p>I can change the priority level on appropriate tickets by clicking the "Priority" section and can add a note for the change made:
+<p>
+</p>
+<img width="1440" height="900" alt="Screenshot 2026-02-11 at 11 03 31 AM" src="https://github.com/user-attachments/assets/d118a9cb-b5fa-45b1-a072-96091f99a997" />
+
+
+</p>I can also change the tickets SLA (Service Level Aggrement) of the ticket in the "SLA Plan" section:
+<p>
+</p>
+<img width="1440" height="900" alt="Screenshot 2026-02-11 at 11 10 25 AM" src="https://github.com/user-attachments/assets/07350abd-2b29-41fd-8df6-c34a1d25714a" />
+
+
+</p>To assign a ticket, click on "Unassigned" next to the "Assigned To" section and select an agent to assign this ticket to:
+<p>
+</p>
+<img width="1440" height="900" alt="Screenshot 2026-02-11 at 11 29 07 AM" src="https://github.com/user-attachments/assets/27721cc7-b6fb-4cd3-a3e3-6481e75dc81f" />
+
+
+</p></p>Another option I have is to change the tickets department in the "Department" section:
+<p>
+</p>
+<img width="1440" height="900" alt="Screenshot 2026-02-11 at 11 34 45 AM" src="https://github.com/user-attachments/assets/28ccec2b-125c-4999-9973-2d180c4e9517" />
+
+
+
+</p>Looking further down I can see a thread of all of the changes made to the ticket:
+<p>
+</p>
+<img width="1440" height="900" alt="Screenshot 2026-02-11 at 11 40 45 AM" src="https://github.com/user-attachments/assets/f69c17f7-7692-43cd-a6fd-0a32942b49a7" />
+
+
+
+</p>When clicking on a ticket I can see all the information about the ticket like its priority, SLA, creation date, and more:
+<p>
+</p>
+<img width="1440" height="900" alt="Screenshot 2026-02-11 at 10 52 47 AM" src="https://github.com/user-attachments/assets/92610137-0ddd-4f19-bb89-ada728979be0" />
+
+
+</p>When clicking on a ticket I can see all the information about the ticket like its priority, SLA, creation date, and more:
+<p>
+</p>
+<img width="1440" height="900" alt="Screenshot 2026-02-11 at 10 52 47 AM" src="https://github.com/user-attachments/assets/92610137-0ddd-4f19-bb89-ada728979be0" />
+
+
+
+
