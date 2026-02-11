@@ -68,16 +68,33 @@ First, I will navigate to the end user site of osTicket to be able to create a n
 
 
 
-</p>When clicking on a ticket I can see all the information about the ticket like its priority, SLA, creation date, and more:
+</p>At the bottom I can post replies communicating updates of the ticket:
 <p>
 </p>
-<img width="1440" height="900" alt="Screenshot 2026-02-11 at 10 52 47 AM" src="https://github.com/user-attachments/assets/92610137-0ddd-4f19-bb89-ada728979be0" />
+<img width="1440" height="900" alt="Screenshot 2026-02-11 at 11 47 55 AM" src="https://github.com/user-attachments/assets/6c2867a0-3e99-4887-86d8-c6e8fa6e766d" />
 
 
-</p>When clicking on a ticket I can see all the information about the ticket like its priority, SLA, creation date, and more:
+
+</p>If I go back to see all the open tickets, I can see the changes I made to the ticket:
 <p>
 </p>
-<img width="1440" height="900" alt="Screenshot 2026-02-11 at 10 52 47 AM" src="https://github.com/user-attachments/assets/92610137-0ddd-4f19-bb89-ada728979be0" />
+<img width="1440" height="900" alt="Screenshot 2026-02-11 at 11 52 19 AM" src="https://github.com/user-attachments/assets/c4f11e52-8d51-4d3e-86b8-358487da2ff3" />
+
+
+
+</p>To resolve a ticket, I can select "Resolved" from the "Ticket Status" menu at the top left of the ticket:
+<p>
+</p>
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/769324e0-9bca-41d0-b221-3a3a8e120183" />
+
+
+
+
+</p>The resolved ticket will disappear from the open tickets tab and appear in the closed tickets tab:
+<p>
+</p>
+<img width="1440" height="900" alt="Screenshot 2026-02-11 at 12 14 56 PM" src="https://github.com/user-attachments/assets/a3de55c8-82c8-4e4e-93e9-97c05c946933" />
+
 
 
 
