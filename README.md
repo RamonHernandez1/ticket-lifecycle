@@ -4,17 +4,17 @@
 
 <h1>osTicket - LifeCycle Examples Setup</h1>
 </p>
-This tutorial demonstrates the creation of tickets as an end user .<br />
+In this last section of the osTicket project, I go through the life cycle of a ticket from creation, to resolution. I make changes to the tickets when necessary like assigning the tickets, changing the SLA (Service Level Agreement), and commenting to create a thread of clear communication.
 
-</p>
+</p><h1>Environments and utilities used</h1>
 </p>
 </p>
 <p>
-Karen is creating a ticket, the help topic is "Business Critical Outage" because customers are reporting that they cannot access mobile banking. 
-</p>
-<img width="841" height="764" alt="Screenshot 2026-01-30 at 4 18 03 PM" src="https://github.com/user-attachments/assets/8c8d9e47-b6cf-4c88-bacb-20ede2469d1e" />
+osTicket
+</p><h1>Project Guide</h1>
+First, I will navigate to the end user site of osTicket to be able to create a new ticket:</p><img width="1440" height="900" alt="Screenshot 2026-02-10 at 10 13 22 PM" src="https://github.com/user-attachments/assets/4b9bc31d-b95e-4c9f-ab06-e86f43ee75ba" />
 
-</p>
+</p>I will open three new tickets and fill out the users information along with the technical issues:
 <br />
 <p>
 </p>
