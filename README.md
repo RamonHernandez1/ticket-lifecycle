@@ -12,7 +12,10 @@ In this last section of the osTicket project, I go through the life cycle of a t
 <p>
 osTicket
 </p><h1>Project Guide</h1>
-First, I will navigate to the end user site of osTicket to be able to create a new ticket:</p><img width="1440" height="900" alt="Screenshot 2026-02-10 at 10 13 22 PM" src="https://github.com/user-attachments/assets/4b9bc31d-b95e-4c9f-ab06-e86f43ee75ba" />
+First, I will navigate to the end user site of osTicket to be able to create a new ticket:
+</p>http://localhost/osTicket</p> <p>
+</p>http://localhost/osTicket/scp/login.php</p>
+<img width="1440" height="900" alt="Screenshot 2026-02-10 at 10 13 22 PM" src="https://github.com/user-attachments/assets/4b9bc31d-b95e-4c9f-ab06-e86f43ee75ba" />
 
 </p>I will open two new tickets and fill out the users information along with the technical issues:
 <br />
