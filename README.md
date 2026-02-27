@@ -11,9 +11,8 @@ In this last section of the osTicket project, I go through the life cycle of a t
 </p>
 <p>
 osTicket
-</p><h1>Project Guide</h1>
-First, I will navigate to the end user site of osTicket to be able to create a new ticket in the virtual machine:
-</p>http://localhost/osTicket/scp/login.php 
+</p><h1>Project Guide</h1></p>
+</p> First, I will navigate to the end user site of osTicket to be able to create a new ticket in the virtual machine:
 </p>http://localhost/osTicket 
 <img width="1440" height="900" alt="Screenshot 2026-02-10 at 10 13 22 PM" src="https://github.com/user-attachments/assets/4b9bc31d-b95e-4c9f-ab06-e86f43ee75ba" />
 
@@ -25,7 +24,7 @@ First, I will navigate to the end user site of osTicket to be able to create a n
 <p>
 </p><img width="2824" height="1632" alt="image" src="https://github.com/user-attachments/assets/a4140113-bd53-43a8-a422-1381bba4e569" />
 
-<br />Next, I will log in as an agent (worker) we created:
+<br />Next, I will log in as an agent (worker) we created:http://localhost/osTicket/scp/login.php 
 <p>
 <img width="1440" height="900" alt="Screenshot 2026-02-11 at 10 30 02 AM" src="https://github.com/user-attachments/assets/fe2615b7-640e-467f-8825-89e34c15b3a8" />
 
